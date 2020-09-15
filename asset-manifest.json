@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/devkyeong/movie_app/movie_app_2020/static/css/main.393ca67d.chunk.css",
+    "main.js": "/devkyeong/movie_app/movie_app_2020/static/js/main.4d7ffc32.chunk.js",
+    "main.js.map": "/devkyeong/movie_app/movie_app_2020/static/js/main.4d7ffc32.chunk.js.map",
+    "runtime-main.js": "/devkyeong/movie_app/movie_app_2020/static/js/runtime-main.2f31cf9d.js",
+    "runtime-main.js.map": "/devkyeong/movie_app/movie_app_2020/static/js/runtime-main.2f31cf9d.js.map",
+    "static/js/2.03729dac.chunk.js": "/devkyeong/movie_app/movie_app_2020/static/js/2.03729dac.chunk.js",
+    "static/js/2.03729dac.chunk.js.map": "/devkyeong/movie_app/movie_app_2020/static/js/2.03729dac.chunk.js.map",
+    "index.html": "/devkyeong/movie_app/movie_app_2020/index.html",
+    "precache-manifest.3f8ceaf642694ddba4471d7dd064208a.js": "/devkyeong/movie_app/movie_app_2020/precache-manifest.3f8ceaf642694ddba4471d7dd064208a.js",
+    "service-worker.js": "/devkyeong/movie_app/movie_app_2020/service-worker.js",
+    "static/css/main.393ca67d.chunk.css.map": "/devkyeong/movie_app/movie_app_2020/static/css/main.393ca67d.chunk.css.map",
+    "static/js/2.03729dac.chunk.js.LICENSE.txt": "/devkyeong/movie_app/movie_app_2020/static/js/2.03729dac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f31cf9d.js",
+    "static/js/2.03729dac.chunk.js",
+    "static/css/main.393ca67d.chunk.css",
+    "static/js/main.4d7ffc32.chunk.js"
+  ]
+}
